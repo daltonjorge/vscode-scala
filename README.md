@@ -6,20 +6,13 @@ I decided create a new extension after problems with Scala extension from Iliya 
 
 ## Features
 
-Only syntax.
+Only scala syntax.
 
 ## Requirements
 
 No requirements.
 
-## Known Issues
-
-Unknown.
-
-## Release Notes
-
-### 0.0.1
-
-Initial version.
+## License
+[MIT](LICENSE)
 
 -----------------------------------------------------------------------------------------------------------

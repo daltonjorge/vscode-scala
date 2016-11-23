@@ -2,7 +2,7 @@
     "name": "scala",
     "displayName": "Scala Syntax",
     "description": "A Scala Syntax based on https://github.com/sellmerfud/scala.tmbundle",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "daltonjorge",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
@@ -13,6 +13,7 @@
         "type": "git",
         "url": "https://github.com/daltonjorge/vscode-scala.git"
     },
+    "icon": "images/smooth-spiral.png",
     "categories": [
         "Languages"
     ],
@@ -34,7 +35,7 @@
             {
                 "language": "scala",
                 "scopeName": "source.scala",
-                "path": "./syntaxes/scala.tmLanguage"
+                "path": "./syntaxes/Scala.tmLanguage"
             }
         ]
     }
